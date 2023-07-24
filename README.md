@@ -11,5 +11,7 @@ This project is stable and production-ready.
 # Installation
 
 git clone https://github.com/Prasva1421/Email-Scarper.git
+
 cd Email-Scarper/
+
 python3 main.py
