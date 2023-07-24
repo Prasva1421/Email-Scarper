@@ -7,3 +7,6 @@ This tool tries to extract all of the emails that are in the HTML page of the UR
 # Current status:
 
 This project is stable and production-ready.
+
+# Installation
+
