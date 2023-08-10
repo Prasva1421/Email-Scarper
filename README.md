@@ -8,7 +8,7 @@ This tool tries to extract all of the emails that are in the HTML page of the UR
 
 This project is stable and production-ready.
 
-Installation:
+# Installation:
   git clone https://github.com/Prasva1421/Email-Scarper.git
-  cd Email-Scarper/
+  cd Email-Scarper
   python3 main.py
